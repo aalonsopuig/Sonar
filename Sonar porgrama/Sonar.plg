@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Sonar - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "c:\windows\TEMP\RSP4152.TMP" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Sonar.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp"
+]
+Creating command line "cl.exe @c:\windows\TEMP\RSP4152.TMP" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/Sonar.pdb" /machine:I386 /out:"Release/Sonar.exe"  ".\Release\I2c.obj" ".\Release\Sonar.obj" ".\Release\SonarDlg.obj" ".\Release\StdAfx.obj" ".\Release\Sonar.res" "
+<h3>Output Window</h3>
+Compiling...
+SonarDlg.cpp
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(142) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(142) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(182) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(182) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(202) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(203) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(208) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(209) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(221) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(222) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(227) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(228) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(274) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(274) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(542) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(542) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(646) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(646) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(678) : warning C4244: '=' : conversion from 'double' to 'unsigned char', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(684) : warning C4244: '=' : conversion from 'double' to 'unsigned char', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(685) : warning C4244: '=' : conversion from 'double' to 'unsigned char', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(715) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(715) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(741) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(742) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(747) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(748) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(760) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(761) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(766) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(767) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(791) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Mis documentos\Privado\Robotica\Programacion\VisualC++\Sonar\SonarDlg.cpp(791) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+Sonar.exe - 0 error(s), 33 warning(s)
+</pre>
+</body>
+</html>
