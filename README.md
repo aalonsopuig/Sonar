@@ -8,19 +8,11 @@
 
 
 
-<table border="0" width="73%">
-  <tr>
-    <td width="109%"><font size="4"><b><i>Diseño y aplicación de un Sonar de
+<font size="4"><b><i>Diseño y aplicación de un Sonar de
       barrido.&nbsp;</i></b></font>
       <p>Por Alejandro Alonso Puig<br>
       Diciembre 2.003<br>
       </p>
-    </td>
-    <td width="1%">
-      <p align="right">&nbsp;
-      <p align="right">&nbsp;</td>
-  </tr>
-</table>
 <hr>
 <p align="justify"><br>
 El siguiente repositorio incorpora los programas y un informe técnico que describe el diseño de un sonar de barrido y su
